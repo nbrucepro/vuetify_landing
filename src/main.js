@@ -5,8 +5,6 @@ import VueYouTubeEmbed from 'vue-youtube-embed'
 // import firebase from 'firebase/app'
 // import 'firebase/firestore'
 
-Vue.use(VueYouTubeEmbed)
-Vue.config.productionTip = false
 
 // firebase.initializeApp({
 //  Configurações do seu app
