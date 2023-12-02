@@ -14,3 +14,7 @@ Vue.config.productionTip = false
 
 // export const db = firebase.firestore()
 
+new Vue({
+  vuetify,
+  render: h => h(App)
+}).$mount('#app')
